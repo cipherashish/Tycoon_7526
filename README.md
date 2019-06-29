@@ -7,7 +7,7 @@ A sample [Express](http://expressjs.com/) application to deploy to Cloud Foundry
 1. Install [Node.js and npm](https://nodejs.org/)
 1. Run `npm install`
 1. Run `npm start`
-1. Visit [http://localhost:5555](http://localhost:5555)
+1. Visit [http://localhost:1111](http://localhost:1111)
 
 ## Run in the cloud
 
